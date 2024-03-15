@@ -1,7 +1,5 @@
 <h1 align = "center">Hi, I Am Orbit<h/>
-
 <h2 align = "center">A passionate developer from Bangladesh</h2>
-
 
 <h3 align = "center">
 
