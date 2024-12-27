@@ -8,6 +8,8 @@
 <a href='https://orbitt.pages.dev/' target="_blank"><img alt='website' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=globe&logoColor=FEFFFE&labelColor=363A4F&color=B7BDF8'/></a>
 <a href='mailto:orbit.dna@yandex.com' target="_blank"><img alt='mail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=&logoColor=FEFFFE&labelColor=363A4F&color=B7BDF8'/></a>
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Orbit-who&count=3&bg_color=1E1E2E)
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Things+I+Use&lineCount=1&theme=catppuccin_mocha&width=550&line1=python%2CPython%2C6a589d%3Bhtml5%2Chtml%2C967fbd%3Bcss3%2Ccss%2C7145a9%3Bvisualstudiocode%2Cvsc%2C927ac3%3Bcloudflare%2Ccloudflare%2Cc780fe%3B" alt="Things I Use" />
+
 </h3>
-[![My Last.fm]([https://lastfm-recently-played.vercel.app/api?user=Orbit-who](https://lastfm-recently-played.vercel.app/api?user=Orbit-who&count=3&bg_color=363A4F))]
